@@ -97,7 +97,7 @@ i {
     width: 65%;
   }
 }
-@media (min-width: 400px) {
+@media (max-width: 450px) {
   #issMap {
     margin-bottom: 10vh;
   }

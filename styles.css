@@ -79,6 +79,7 @@ footer {
   text-align: center;
   height: 8vh;
   font-size: 18px;
+  transform: translate(-45px);
 }
 i {
   color: white;

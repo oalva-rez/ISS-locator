@@ -19,6 +19,7 @@ h1 {
   color: #c3e0e5;
   width: 100%;
   text-align: center;
+  white-space: nowrap;
 }
 .content {
   display: flex;

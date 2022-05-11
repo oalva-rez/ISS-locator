@@ -1,4 +1,4 @@
-# ISS-locator - Ozkar Alvarez
+# ISS-locator
 
 This ISS Locator script that interacts with the HTML DOM tree is the first encounter I had with an API. I utilized the fetch API along with async/await syntax. The API calls the location and velocity endpoints to retrieve the data and display it to the user. 
 
